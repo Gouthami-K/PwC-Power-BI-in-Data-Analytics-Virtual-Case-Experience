@@ -34,13 +34,13 @@ The task is to do the following:\
 
 Calculating the following measures helps us to define proper KPIs:
 
-● # of men
-● # of women
-● # of leavers
-● % employees promoted (FY21)
-● % of women promoted
-● % of hires men
-● % of hires women
-● % turnover 
-● Average performance rating: men
+● # of men\
+● # of women\
+● # of leavers\
+● % employees promoted (FY21)\
+● % of women promoted\
+● % of hires men\
+● % of hires women\
+● % turnover\
+● Average performance rating: men\
 ● Average Performance rating: women
