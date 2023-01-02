@@ -9,7 +9,7 @@ This is for inspiring insight on Digital Upskilling before kick-starting the jou
 Dataset: 01 Call-Center-Dataset\
 Creating a dashboard in Power BI for Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
-Possible KPIs include (to get you started, but not limited to):
+Possible KPIs include (to get started, but not limited to):
 
 ● Overall customer satisfaction\
 ● Overall calls answered/abandoned\
