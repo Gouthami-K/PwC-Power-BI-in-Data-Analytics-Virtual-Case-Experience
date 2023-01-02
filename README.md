@@ -9,13 +9,13 @@ This is for inspiring insight on Digital Upskilling before kick-starting the jou
 Dataset: 01 Call-Center-Dataset\
 Creating a dashboard in Power BI for Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
-Possible KPIs include (to get you started, but not limited to):\
+Possible KPIs include (to get you started, but not limited to):
 
 ● Overall customer satisfaction\
 ● Overall calls answered/abandoned\
 ● Calls by time\
 ● Average speed of answer\
-● Agent’s performance quadrant -> average handle time (talk duration) vs calls answered\
+● Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 ## Customer Retention
 Dataset: 02 Churn-Dataset\
@@ -23,11 +23,11 @@ With the dataset provided for this task , we are asked to do the following:
 
 ● Define proper KPIs\
 ● Create a dashboard for the retention manager reflecting the KPIs\
-● Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed\
+● Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
 
 ## Diversity & Inclusion
 Dataset: 03 Diversity-Inclusion-Dataset\
-The task is to do the following:\
+The task is to do the following:
 
 ● Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation\
 ● Write what you think some root causes of their slow progress might be
